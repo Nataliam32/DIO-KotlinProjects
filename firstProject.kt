@@ -19,4 +19,4 @@ fun main() {
     printMessageWithPrefix(prefix = "Log", message = "Hello")           // 8
     println(sum(1, 2))                                                  // 9
     println(multiply(2, 4))                                             // 10
-}
+} // responsável por executar todas as funções declaradas anteriormente
